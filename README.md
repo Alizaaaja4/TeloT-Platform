@@ -16,6 +16,9 @@
 | **CoAP Server**  | aiocoap                    |
 | **Container**    | Docker, Docker Compose     |
 
+## 📱 UI/UX Prototype
+Lihat desain antarmuka pengguna di Figma: [Klik di sini]([https://www.figma.com/file/your-prototype-link](https://www.figma.com/proto/9k1SzoRPUP94WtS0FbIx4T/Untitled?node-id=28-494&p=f&t=ojdEAnnnytXJqMqs-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=28%3A494))
+
 ## 📐 Arsitektur Sistem
 ```mermaid
 flowchart LR
@@ -27,3 +30,4 @@ flowchart LR
     C --> F[(Database)]
     D --> C
     E --> G[User Browser]
+```
