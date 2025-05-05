@@ -11,7 +11,7 @@
 |------------------|----------------------------|
 | **Frontend**     | React, Bootstrap, MQTT.js  |
 | **Backend**      | Flask, Python 3.9+         |
-| **Database**     | PostgreSQL                 |
+| **Database**     | PostgreSQL/ MongoDB        |
 | **Realtime**     | Mosquitto (MQTT Broker)    |
 | **CoAP Server**  | aiocoap                    |
 | **Container**    | Docker, Docker Compose     |
